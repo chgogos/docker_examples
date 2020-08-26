@@ -1,6 +1,8 @@
 # Docker example 1
 
-C++ single file code compiled with g++, container used gcc:latest
+C++ code compiled with g++
+
+CMAKE, vcpkg
 
 * Build docker container
 

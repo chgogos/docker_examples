@@ -1,6 +1,6 @@
-# Docker example 1
+# Docker example 2
 
-C++ single file code compiled with g++, container used gcc:latest
+Container used C++ single file code compiled with clang, container used ubuntu:latest
 
 * Build docker container
 
